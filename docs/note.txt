@@ -1,0 +1,9 @@
+
+
+
+set repo visib to private
+
+then set to public
+change branch to main, leave root
+add www.e-2e.com (should already be there) save
+then enforce https check
